@@ -1,0 +1,2 @@
+Written in C language, about large integer multiplication and division calculations! Called the gmp library function and used the simple number calculation method!
+Usually the basic data types of C language cannot meet the large integer addition, subtraction, multiplication and division calculations. By calling the gmp library function, any large integer calculation can be realized. This program is a demo test program! It is recommended to use Microsoft vs2022 desktop program for compilation!
